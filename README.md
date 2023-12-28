@@ -1,3 +1,5 @@
+![poster](./goobne project screenshot.png)
+
 > Target website: [굽네치킨 (2022, 웹어워드 코리아 생활브랜드부문 프랜차이즈분야 대상)](https://www.goobne.co.kr/index)
 
 - Period
